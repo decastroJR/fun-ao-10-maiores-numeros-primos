@@ -1,3 +1,7 @@
+963R - PROGRAMAÇÃO JAVASCRIPT 2024/1 
+ISLANDE DE CASTRO SILVA JUNIOR 
+matricula: 2024101054
+
 function ehPrime(num) {
   if (num <= 1) {
       return false;
